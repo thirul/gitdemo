@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitSysDemo
 {
-    class Customer
+    public class Customer
     {
+        // online edit 
     }
 }
