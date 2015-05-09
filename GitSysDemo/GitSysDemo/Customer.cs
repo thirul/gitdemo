@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitSysDemo
 {
-    class Customer
+    public class Customer
     {
         // thiru changes from local branch 300
 
@@ -14,5 +14,6 @@ namespace GitSysDemo
         {
 
         }
+        // online edit 
     }
 }
