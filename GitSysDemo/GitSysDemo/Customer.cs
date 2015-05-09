@@ -8,5 +8,11 @@ namespace GitSysDemo
 {
     class Customer
     {
+        // thiru changes from local branch 300
+
+        public void GetName()
+        {
+
+        }
     }
 }
