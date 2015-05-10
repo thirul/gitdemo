@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitSysDemo
 {
-    class Product
+    class ProductDeails
     {
     }
 }
